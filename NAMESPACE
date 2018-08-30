@@ -1,0 +1,4 @@
+export(lpm2_kdtree)
+export(split_sample)
+useDynLib(SamplingBigData, .registration=TRUE)
+
