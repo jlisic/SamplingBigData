@@ -17,7 +17,7 @@ License: GPL (>=2)
 
 Encoding: UTF-8
 
-URL: https://github.com/SamplingBigData
+URL: https://github.com/jlisic/SamplingBigData
 
 NeedsCompilation: yes
 
