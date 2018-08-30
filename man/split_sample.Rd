@@ -8,7 +8,7 @@ Split Sample
 }
 \usage{
 
-  lpm2_kdtree(
+  split_sample(
      prob,
      delta  = exp(-16)
      ) 

@@ -67,4 +67,4 @@ for(i in seq(nrs) ){
 print(p);
 print(p1/nrs);
 print(p2/nrs);
-
+}

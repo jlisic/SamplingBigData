@@ -1,7 +1,5 @@
 
 
-
-
 split_sample <- function(
   prob,
   delta = exp(-16)

@@ -2,14 +2,14 @@ lpm2_kdtree <- function(
   prob,
   x,                      
   m=40,
-  algorithm="kdtree",
-  maxCheck=4,
-  termDist=.1,
-  inOrder=FALSE,
-  resample=1,
-  probTree=FALSE,
-  returnTree=FALSE,
-  returnBounds=FALSE
+  algorithm = "kdtree",
+  maxCheck = 4,
+  termDist = 0.1,
+  inOrder = FALSE,
+  resample = 1,
+  probTree = FALSE,
+  returnTree = FALSE,
+  returnBounds = FALSE
 ) {
 
   if(!is.matrix(x)) x <- as.matrix(x)
