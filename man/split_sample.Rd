@@ -16,8 +16,7 @@ Split Sample
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{prob}{
-    An array of length N such that the sum of prob is equal to the sample size,
-    where the N is the number of rows of \code{x}.
+    An array of length N such that the sum of prob is equal to the sample size.
   }
   \item{delta}{
     A small real value that is used for tolerance in determining if the value is
